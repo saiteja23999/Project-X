@@ -1,0 +1,22 @@
+Tasks:
+
+Port Scanner:
+● Port scanning is a method of determining which ports on a network are open and could be
+receiving or sending data. It is also a process for sending packets to specific ports on a
+host and analyzing responses to identify vulnerabilities. This scanning can’t take place
+without first identifying a list of active hosts and mapping those hosts to their IP
+addresses. This activity, called host discovery, starts by doing a network scan.
+
+Subdomain Scanner:
+● Subdomain enumeration is the process of finding valid (resolvable) subdomains for one
+or more domain(s). Unless the DNS server exposes a full DNS zone, it is really hard to
+obtain a list of existing subdomains.
+● We are collecting the subdomains from the crt.sh, which means we are getting the valid
+and working subdomains.
+● Source of subdomains: https://crt.sh/
+
+URL Extractor:
+● This tool supports extraction of URLs, Meta Tags and Images from a web page. The
+extracted web addresses are displayed in a simple list. URL is also known as Uniform
+Resource Locator. This tool will extricate all the meta tags of the webpage and Lists them
+with the information.
